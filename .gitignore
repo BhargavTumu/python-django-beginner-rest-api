@@ -121,6 +121,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vagrant Files
 .vagrant/machines/default/virtualbox/action_provision
 .vagrant/machines/default/virtualbox/action_set_name
 .vagrant/machines/default/virtualbox/box_meta
@@ -132,3 +134,12 @@ dmypy.json
 .vagrant/machines/default/virtualbox/vagrant_cwd
 .vagrant/rgloader/loader.rb
 *.rb
+.vagrant/*
+.vagrant/machines/default/virtualbox/action_provision
+.vagrant/machines/default/virtualbox/action_provision
+.vagrant/machines/default/virtualbox/action_set_name
+.vagrant/machines/default/virtualbox/id
+.vagrant/machines/default/virtualbox/index_uuid
+.vagrant/machines/default/virtualbox/private_key
+.vagrant/machines/default/virtualbox/action_provision
+.vagrant/
